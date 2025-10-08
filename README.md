@@ -1,6 +1,6 @@
 # Générateur de mots de passe 🔐
 
-Ce projet Python propose une **interface graphique** simple et intuitive pour **générer des mots de passe aléatoires** de manière sécurisée.
+Ce projet Python propose de **générer des mots de passe aléatoires** de manière sécurisée.
 
 ---
 
