@@ -17,8 +17,6 @@ Avoir une bonne note en NSI
 
 ---
 
----
-
 ## 🚀 Lancer l'application
 
 ### 1. Cloner le dépôt
